@@ -1,0 +1,6 @@
+{
+  "name": "Hunter System — Solo Leveling Fitness & Notifications",
+  "description": "Solo Leveling-inspired Hunter System fitness dashboard with E-to-S ranks, beginner home-workout quests, walking and recovery days, local progress storage, 8 AM/8 PM daily notifications, streak milestones, and Flutter Android starter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
